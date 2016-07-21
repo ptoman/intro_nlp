@@ -2,7 +2,7 @@
 
 This repo is for the hands-on component of introducing NLP in an hour-long seminar.
 
-If you want to partcipate in the hands-on part, you'll need to:
+You can read the code by clicking on the ipynb files within github.  However, if you want to partcipate in the hands-on part, you'll need to:
 
 * Clone this repo
 * Make sure you have the dependencies (NB: Anaconda makes this simple!) 
