@@ -12,6 +12,6 @@ You can read the code by clicking on the ipynb files within github.  However, if
   * nltk
   * numpy
   * scipy
-* Download the data
+* Download the data that is sizeable
   * GloVe 6B at http://nlp.stanford.edu/data/glove.6B.zip
   * WordNet within nltk -- see http://www.nltk.org/data.html for info (in brief: `import nltk; nltk.download()` but of course no semicolons in Python)
